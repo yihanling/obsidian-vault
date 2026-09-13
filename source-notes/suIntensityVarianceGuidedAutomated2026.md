@@ -49,6 +49,14 @@
 > working distance (WD) of 103 mm.%% begin 2MCUM5KR %%%% end 2MCUM5KR %%
 
 ---
+> [!note] Key Passage (Page 3)
+> As the distance between the scanner and the subject changes, the pupil image alternates between blurred (defocused) and sharp (focused) states, accompanied by variations in the intensity of the LED reflections.%% begin FNIB3VZA %%%% end FNIB3VZA %%
+
+---
+
+![[source-notes/suIntensityVarianceGuidedAutomated2026/image-3-x373-y114.png]]%% begin 6XP9FN79 %%%% end 6XP9FN79 %%
+
+---
 
 ![[source-notes/suIntensityVarianceGuidedAutomated2026/image-3-x46-y262.png]]%% begin DXUY5CN4 %%%% end DXUY5CN4 %%
 
@@ -64,4 +72,4 @@
 
 ![[source-notes/suIntensityVarianceGuidedAutomated2026/image-4-x311-y685.png]]%% begin PHSEBN97 %%%% end PHSEBN97 %%
 
-%% Import Date: 2026-09-12T22:09:31.862-04:00 %%
+%% Import Date: 2026-09-12T22:36:31.868-04:00 %%
