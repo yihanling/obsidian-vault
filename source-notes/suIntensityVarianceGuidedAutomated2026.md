@@ -73,6 +73,14 @@
 ![[source-notes/suIntensityVarianceGuidedAutomated2026/image-3-x47-y512.png]]%% begin QIMCB3XN %%%% end QIMCB3XN %%
 
 ---
+> [!note] Key Passage (Page 4)
+> The system employs a 400 kHz swept-source laser with a center wavelength of 1060 nm and a bandwidth of 90 nm (Axsun Technologies).%% begin V5D9L2H2 %%%% end V5D9L2H2 %%
+
+---
+> [!note] Key Passage (Page 4)
+> The OCT axial resolution, shown in Figure 3b, is 6.96 μm in air. Imaging a 1951 USAF resolution target (Figure 3c) yielded a measured lateral resolution of 6.20 μm in air. The axial imaging depth at the retina is 3.54 mm.%% begin MG65RMIN %%%% end MG65RMIN %%
+
+---
 
 ![[source-notes/suIntensityVarianceGuidedAutomated2026/image-4-x46-y579.png]]%% begin L9IL4E6D %%%% end L9IL4E6D %%
 
@@ -88,4 +96,8 @@
 
 ![[source-notes/suIntensityVarianceGuidedAutomated2026/image-4-x311-y685.png]]%% begin PHSEBN97 %%%% end PHSEBN97 %%
 
-%% Import Date: 2026-09-12T23:34:17.270-04:00 %%
+---
+
+![[source-notes/suIntensityVarianceGuidedAutomated2026/image-5-x120-y555.png]]%% begin L796BKLU %%%% end L796BKLU %%
+
+%% Import Date: 2026-09-12T23:54:34.910-04:00 %%
