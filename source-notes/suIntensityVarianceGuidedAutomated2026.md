@@ -53,6 +53,14 @@
 > As the distance between the scanner and the subject changes, the pupil image alternates between blurred (defocused) and sharp (focused) states, accompanied by variations in the intensity of the LED reflections.%% begin FNIB3VZA %%%% end FNIB3VZA %%
 
 ---
+> [!note] Key Passage (Page 3)
+> Inspired by prior autofocus imaging studies [39], we adopted image variance (VAR) as a metric to characterize the variation of image blur with depth.%% begin LH2KP5CV %%%% end LH2KP5CV %%
+
+---
+> [!note] Key Passage (Page 3)
+> (x, y) is the coordinate of a pixel in the detected pupil image, I(x, y) is the intensity value at the pixel, and I is the average pixel intensity over the entire ROI.%% begin G3MZS72R %%%% end G3MZS72R %%
+
+---
 
 ![[source-notes/suIntensityVarianceGuidedAutomated2026/image-3-x373-y114.png]]%% begin 6XP9FN79 %%%% end 6XP9FN79 %%
 
@@ -70,6 +78,10 @@
 
 ---
 
+![[source-notes/suIntensityVarianceGuidedAutomated2026/image-4-x312-y579.png]]%% begin JUA7QF3A %%%% end JUA7QF3A %%
+
+---
+
 ![[source-notes/suIntensityVarianceGuidedAutomated2026/image-4-x311-y685.png]]%% begin PHSEBN97 %%%% end PHSEBN97 %%
 
-%% Import Date: 2026-09-12T22:36:31.868-04:00 %%
+%% Import Date: 2026-09-12T22:59:46.385-04:00 %%
