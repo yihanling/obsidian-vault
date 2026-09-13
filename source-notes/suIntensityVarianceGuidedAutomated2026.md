@@ -81,6 +81,14 @@
 > The OCT axial resolution, shown in Figure 3b, is 6.96 μm in air. Imaging a 1951 USAF resolution target (Figure 3c) yielded a measured lateral resolution of 6.20 μm in air. The axial imaging depth at the retina is 3.54 mm.%% begin MG65RMIN %%%% end MG65RMIN %%
 
 ---
+> [!note] Key Passage (Page 4)
+> Both the depth camera and the pupil camera are equipped with finetuned YOLOv8 models [40] to detect the eye region.%% begin 2IZEQ3T7 %%%% end 2IZEQ3T7 %%
+
+---
+> [!info] Methods (Page 4)
+> The depth camera provides an initial estimate of the eye's 3D location and triggers motion of the robotic arm.%% begin CK8L2CUG %%%% end CK8L2CUG %%
+
+---
 
 ![[source-notes/suIntensityVarianceGuidedAutomated2026/image-4-x46-y579.png]]%% begin L9IL4E6D %%%% end L9IL4E6D %%
 
@@ -97,7 +105,47 @@
 ![[source-notes/suIntensityVarianceGuidedAutomated2026/image-4-x311-y685.png]]%% begin PHSEBN97 %%%% end PHSEBN97 %%
 
 ---
+> [!info] Methods (Page 5)
+> the pupil camera captures a clear ROI of the pupil, and VAR of this ROI can be computed.%% begin IDUYMRUQ %%%% end IDUYMRUQ %%
+
+---
+> [!info] Methods (Page 5)
+> The robotic arm then performs a rapid depth sweep (~1 s) over a 30 mm range, recording  the VAR of the pupil ROI at 0.1 mm depth intervals.%% begin 54HLFMN8 %%%% end 54HLFMN8 %%
+
+---
 
 ![[source-notes/suIntensityVarianceGuidedAutomated2026/image-5-x120-y555.png]]%% begin L796BKLU %%%% end L796BKLU %%
 
-%% Import Date: 2026-09-12T23:54:34.910-04:00 %%
+---
+> [!info] Methods (Page 6)
+> For lateral alignment, we define the optimal imaging position as the center of the pupil camera's FOV. The pixel offset between the detected pupil center and the center of the image frame is multiplied by a pre-calibrated magnification factor (0.035 mm per pixel), which corresponds to the digital lateral resolution of the pupil camera at the WD.%% begin PHCVCM6L %%%% end PHCVCM6L %%
+
+---
+> [!note] Key Passage (Page 6)
+> Our OCT system supports three scanning modes: single- or multi-line B-scan, wide-field volumetric imaging, and OCTA.%% begin VKIPWD4N %%%% end VKIPWD4N %%
+
+---
+> [!note] Key Passage (Page 6)
+> We developed a software suite based on the Vortex open-source library [41] for hardware control, signal processing, and real-time display, which also integrates modules to manage all automated components within the imaging workflow.%% begin 9H4VWBEE %%%% end 9H4VWBEE %%
+
+---
+> [!note] Key Passage (Page 6)
+> Optimization begins with the reference arm. Its motor moves in a stepwise manner to locate the optimal position for first-order interference.%% begin A8PLJVHL %%%% end A8PLJVHL %%
+
+---
+> [!note] Key Passage (Page 6)
+> During this scan, we record the list of motor step counts S, the list of average axial positions of the A-line intensity peak across the B-scan P, the mean B-scan intensity Imean, and the average peak A-line intensity Imax. These values are stored in a sliding window of 50 samples.%% begin MUDQ3S25 %%%% end MUDQ3S25 %%
+
+---
+> [!note] Key Passage (Page 6)
+> Next, we sequentially optimize the ETL drive current and the PC motor angle. For each component, we sweep its tuning range and select the setting that maximizes average B-scan intensity.%% begin 95DEBPNP %%%% end 95DEBPNP %%
+
+---
+> [!note] Key Passage (Page 6)
+> To avoid the uncertainties and instabilities associated with in vivo human eye testing, we used the head-with-eye phantom described in Section 2.2 for all quantitative analyses.%% begin 8EGNRC5T %%%% end 8EGNRC5T %%
+
+---
+
+![[source-notes/suIntensityVarianceGuidedAutomated2026/image-7-x49-y363.png]]%% begin MA82UIY6 %%%% end MA82UIY6 %%
+
+%% Import Date: 2026-09-13T11:19:07.262-04:00 %%
