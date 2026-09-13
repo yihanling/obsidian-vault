@@ -82,6 +82,10 @@
 
 ---
 
+![[source-notes/suIntensityVarianceGuidedAutomated2026/image-4-x42-y348.png]]%% begin YQLNGVLI %%%% end YQLNGVLI %%
+
+---
+
 ![[source-notes/suIntensityVarianceGuidedAutomated2026/image-4-x311-y685.png]]%% begin PHSEBN97 %%%% end PHSEBN97 %%
 
-%% Import Date: 2026-09-12T22:59:46.385-04:00 %%
+%% Import Date: 2026-09-12T23:34:17.270-04:00 %%
