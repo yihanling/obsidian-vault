@@ -156,4 +156,16 @@
 
 ![[source-notes/suIntensityVarianceGuidedAutomated2026/image-8-x48-y120.png]]%% begin N6H6JGW6 %%%% end N6H6JGW6 %%
 
-%% Import Date: 2026-09-13T15:04:31.622-04:00 %%
+---
+
+![[source-notes/suIntensityVarianceGuidedAutomated2026/image-10-x51-y188.png]]%% begin KZMJ4R2B %%%% end KZMJ4R2B %%
+
+---
+
+![[source-notes/suIntensityVarianceGuidedAutomated2026/image-10-x48-y642.png]]%% begin 4C27BN5H %%%% end 4C27BN5H %%
+
+---
+
+![[source-notes/suIntensityVarianceGuidedAutomated2026/image-10-x49-y354.png]]%% begin M47CGZY8 %%%% end M47CGZY8 %%
+
+%% Import Date: 2026-09-13T15:29:59.440-04:00 %%
