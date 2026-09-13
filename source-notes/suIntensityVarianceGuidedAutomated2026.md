@@ -37,6 +37,18 @@
 > The system uses one depth camera for coarse eye localization and a single pupil camera for real-time tracking. By calibrating a lookup table between image variance and distance within the neareye region, the pupil camera provides indirect depth estimation for robotic servoing.%% begin UXKSEIVW %%%% end UXKSEIVW %%
 
 ---
+> [!note] Key Passage (Page 2)
+> Using retinal OCT B-scan image intensity as the optimization metric,  we automatically adjust these components to enhance image quality.%% begin 6XETDLXE %%%% end 6XETDLXE %%
+
+---
+> [!note] Key Passage (Page 2)
+> The scanner head has a weight of approximately 5 kg and overall dimensions of 27 × 25 × 17 cm. The system utilizes a collaborative 6-degree-of-freedom robotic arm (UR5, Universal Robots) to precisely track and align the subject during imaging.%% begin YKEUHIZN %%%% end YKEUHIZN %%
+
+---
+> [!note] Key Passage (Page 2)
+> working distance (WD) of 103 mm.%% begin 2MCUM5KR %%%% end 2MCUM5KR %%
+
+---
 
 ![[source-notes/suIntensityVarianceGuidedAutomated2026/image-3-x46-y262.png]]%% begin DXUY5CN4 %%%% end DXUY5CN4 %%
 
@@ -44,4 +56,12 @@
 
 ![[source-notes/suIntensityVarianceGuidedAutomated2026/image-3-x47-y512.png]]%% begin QIMCB3XN %%%% end QIMCB3XN %%
 
-%% Import Date: 2026-09-12T13:26:11.321-04:00 %%
+---
+
+![[source-notes/suIntensityVarianceGuidedAutomated2026/image-4-x46-y579.png]]%% begin L9IL4E6D %%%% end L9IL4E6D %%
+
+---
+
+![[source-notes/suIntensityVarianceGuidedAutomated2026/image-4-x311-y685.png]]%% begin PHSEBN97 %%%% end PHSEBN97 %%
+
+%% Import Date: 2026-09-12T22:09:31.862-04:00 %%
