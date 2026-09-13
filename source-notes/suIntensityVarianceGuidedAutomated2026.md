@@ -152,4 +152,8 @@
 
 ![[source-notes/suIntensityVarianceGuidedAutomated2026/image-8-x48-y383.png]]%% begin H6T8ZAWZ %%%% end H6T8ZAWZ %%
 
-%% Import Date: 2026-09-13T11:34:07.082-04:00 %%
+---
+
+![[source-notes/suIntensityVarianceGuidedAutomated2026/image-8-x48-y120.png]]%% begin N6H6JGW6 %%%% end N6H6JGW6 %%
+
+%% Import Date: 2026-09-13T15:04:31.622-04:00 %%
