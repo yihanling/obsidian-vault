@@ -117,6 +117,10 @@
 ![[source-notes/suIntensityVarianceGuidedAutomated2026/image-5-x120-y555.png]]%% begin L796BKLU %%%% end L796BKLU %%
 
 ---
+
+![[source-notes/suIntensityVarianceGuidedAutomated2026/image-5-x48-y146.png]]%% begin G2KQ6GEM %%%% end G2KQ6GEM %%
+
+---
 > [!info] Methods (Page 6)
 > For lateral alignment, we define the optimal imaging position as the center of the pupil camera's FOV. The pixel offset between the detected pupil center and the center of the image frame is multiplied by a pre-calibrated magnification factor (0.035 mm per pixel), which corresponds to the digital lateral resolution of the pupil camera at the WD.%% begin PHCVCM6L %%%% end PHCVCM6L %%
 
@@ -158,6 +162,10 @@
 
 ---
 > [!note] Key Passage (Page 9)
+> We noted a slight offset between the VAR peak value and the WD point. This occurs because our depth metric measures the distance to the pupil center, while the LED reflections used for variance calculation are located near the pupil edges. The curvature of the eyeball creates a small geometric offset between these two points.%% begin PULU54P3 %%%% end PULU54P3 %%
+
+---
+> [!note] Key Passage (Page 9)
 > A prerequisite for our variance-based approach is the consistent visibility of LED reflections within the detected pupil region.%% begin 6I7Z56UJ %%%% end 6I7Z56UJ %%
 
 ---
@@ -184,4 +192,4 @@
 
 ![[source-notes/suIntensityVarianceGuidedAutomated2026/image-11-x44-y604.png]]%% begin FBQYK3NG %%%% end FBQYK3NG %%
 
-%% Import Date: 2026-09-13T23:53:09.921-04:00 %%
+%% Import Date: 2026-09-14T19:49:21.355-04:00 %%
