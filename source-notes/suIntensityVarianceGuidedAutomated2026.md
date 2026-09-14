@@ -157,6 +157,18 @@
 ![[source-notes/suIntensityVarianceGuidedAutomated2026/image-8-x48-y120.png]]%% begin N6H6JGW6 %%%% end N6H6JGW6 %%
 
 ---
+> [!note] Key Passage (Page 9)
+> A prerequisite for our variance-based approach is the consistent visibility of LED reflections within the detected pupil region.%% begin 6I7Z56UJ %%%% end 6I7Z56UJ %%
+
+---
+> [!note] Key Passage (Page 9)
+> If the pupil is undetected for more than 5 s, or the recorded curve lacks monotonically decreasing behavior in the near-eye region, the system flags the current calibration as unreliable. The system then automatically switches to depthcamera-only guidance and reduces the robotic arm's speed to prevent overshoot while maintaining tracking and OCT imaging capability.%% begin LB7V2VQQ %%%% end LB7V2VQQ %%
+
+---
+> [!note] Key Passage (Page 9)
+> combine our VAR-depth method with established gaze orientation estimation algorithms%% begin 7FMY2EK3 %%%% end 7FMY2EK3 %%
+
+---
 
 ![[source-notes/suIntensityVarianceGuidedAutomated2026/image-10-x51-y188.png]]%% begin KZMJ4R2B %%%% end KZMJ4R2B %%
 
@@ -168,4 +180,8 @@
 
 ![[source-notes/suIntensityVarianceGuidedAutomated2026/image-10-x49-y354.png]]%% begin M47CGZY8 %%%% end M47CGZY8 %%
 
-%% Import Date: 2026-09-13T15:29:59.440-04:00 %%
+---
+
+![[source-notes/suIntensityVarianceGuidedAutomated2026/image-11-x44-y604.png]]%% begin FBQYK3NG %%%% end FBQYK3NG %%
+
+%% Import Date: 2026-09-13T23:53:09.921-04:00 %%
