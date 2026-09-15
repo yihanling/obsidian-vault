@@ -154,6 +154,10 @@
 
 ---
 
+![[source-notes/suIntensityVarianceGuidedAutomated2026/image-7-x42-y131.png]]%% begin TCSD8WX7 %%%% end TCSD8WX7 %%
+
+---
+
 ![[source-notes/suIntensityVarianceGuidedAutomated2026/image-8-x48-y383.png]]%% begin H6T8ZAWZ %%%% end H6T8ZAWZ %%
 
 ---
@@ -192,4 +196,4 @@
 
 ![[source-notes/suIntensityVarianceGuidedAutomated2026/image-11-x44-y604.png]]%% begin FBQYK3NG %%%% end FBQYK3NG %%
 
-%% Import Date: 2026-09-14T19:49:21.355-04:00 %%
+%% Import Date: 2026-09-15T11:44:43.660-04:00 %%
